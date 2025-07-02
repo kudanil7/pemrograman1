@@ -1,4 +1,4 @@
-This project was created as a final exam for the Pemrograman1 course by Mr. Niki Ratama S.Kom
+This project was created as a final exam for the Pemrograman1 course by Mr. Niki Ratama M.Kom
 
 The project is to create a trainer booking application, where clients are able to book trainee schedules according to the existing trainee list.
 
